@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nearby.evassist.app-mergeDebugResources-34:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aksha\\.gradle\\caches\\transforms-4\\004095e32a36cd5422561e2908704860\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

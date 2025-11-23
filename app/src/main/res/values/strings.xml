@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nearby EV Assist</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="history">HISTORY</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_running">Status: Running</string>
+    <string name="status_error">Status: Error</string>
+</resources>

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_ic_restaurant.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\ic_restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_splash_bg.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\layout_item_poi.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\layout\\item_poi.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_ic_parking.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\ic_parking.xml"
+    },
+    {
+        "merged": "com.nearby.evassist.app-debug-36:/layout_item_poi.xml.flat",
+        "source": "com.nearby.evassist.app-main-38:/layout/item_poi.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_ic_model_placeholder.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\ic_model_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_ic_charger.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\ic_charger.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-debug-36:\\drawable_ic_category_placeholder.xml.flat",
+        "source": "C:\\Users\\aksha\\.gradle\\daemon\\8.7\\com.nearby.evassist.app-main-38:\\drawable\\ic_category_placeholder.xml"
+    }
+]

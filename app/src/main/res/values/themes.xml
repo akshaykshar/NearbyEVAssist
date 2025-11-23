@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.NearbyEVAssist" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0B5FFF</item>
+        <item name="colorPrimaryVariant">#0839B6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00C2A8</item>
+    </style>
+
+    <style name="Theme.NearbyEVAssist.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+</resources>

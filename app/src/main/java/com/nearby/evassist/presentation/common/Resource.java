@@ -1,0 +1,36 @@
+package com.nearby.evassist.presentation.common;
+
+import androidx.annotation.Nullable;
+
+public class Resource<T> {
+
+    public enum Status { IDLE, LOADING, SUCCESS, ERROR }
+
+    public final Status status;
+    @Nullable
+    public final T data;
+    @Nullable
+    public final String message;
+
+    private Resource(Status status, @Nullable T data, @Nullable String message) {
+        this.status = status;
+        this.data = data;
+        this.message = message;
+    }
+
+    public static <T> Resource<T> idle() {
+        return new Resource<>(Status.IDLE, null, null);
+    }
+
+    public static <T> Resource<T> loading() {
+        return new Resource<>(Status.LOADING, null, null);
+    }
+
+    public static <T> Resource<T> success(@Nullable T data) {
+        return new Resource<>(Status.SUCCESS, data, null);
+    }
+
+    public static <T> Resource<T> error(String msg) {
+        return new Resource<>(Status.ERROR, null, msg);
+    }
+}

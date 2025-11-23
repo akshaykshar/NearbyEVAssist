@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121212</color>
+    <color name="primary">#0B5FFF</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">Nearby EV Assist</string>
+    <string name="history">HISTORY</string>
+    <string name="start">START</string>
+    <string name="status_error">Status: Error</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_running">Status: Running</string>
+    <string name="stop">STOP</string>
+    <style name="Theme.NearbyEVAssist" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0B5FFF</item>
+        <item name="colorPrimaryVariant">#0839B6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00C2A8</item>
+    </style>
+    <style name="Theme.NearbyEVAssist.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+</resources>
